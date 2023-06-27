@@ -14,5 +14,33 @@
       "system": "pf2e",
       "path": "packs/deities-of-everend"
     }
+  ],
+
+  "manifest": "https://raw.githubusercontent.com/chibatakung/pf2e-deities-of-everend-compendium/master/module.json",
+  "download": "https://github.com/chibatakung/pf2e-deities-of-everend-compendium/archive/refs/heads/main.zip",
+  "id": "pf2e-animal-companions",
+  "compatibility": {
+    "minimum": "10.291",
+    "verified": "10.291"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "4.8.3"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Tikael",
+      "flags": {}
+    }
   ]
 }
+
+
