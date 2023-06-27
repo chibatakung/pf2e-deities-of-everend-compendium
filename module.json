@@ -20,8 +20,8 @@
   "download": "https://github.com/chibatakung/pf2e-deities-of-everend-compendium/archive/refs/heads/main.zip",
   "id": "pf2e-deities-of-everend-compendiums",
   "compatibility": {
-    "minimum": "10.291",
-    "verified": "10.291"
+    "minimum": "10",
+    "verified": "11"
   },
   "relationships": {
     "systems": [
