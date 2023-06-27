@@ -1,0 +1,18 @@
+{
+  "id": "pf2e-deities-of-everend-compendium",
+  "title": "pf2e-deities-of-everend-compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "label": "deities-of-everend",
+      "name": "deities-of-everend",
+      "type": "Item",
+      "system": "pf2e",
+      "path": "packs/deities-of-everend"
+    }
+  ]
+}
