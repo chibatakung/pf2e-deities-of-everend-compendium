@@ -18,9 +18,10 @@
 
   "manifest": "https://raw.githubusercontent.com/chibatakung/pf2e-deities-of-everend-compendium/master/module.json",
   "download": "https://github.com/chibatakung/pf2e-deities-of-everend-compendium/archive/refs/heads/main.zip",
-  "id": "pf2e-deities-of-everend-compendium",
+  "id": "pf2e-deities-of-everend-compendiums",
   "compatibility": {
     "minimum": "10.291",
+    "verified": "10.291"
   },
   "relationships": {
     "systems": [
